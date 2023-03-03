@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e2f61aba.css",
+    "main.js": "/static/js/main.ba82d9c1.js",
+    "static/media/ibendouma-logo.png": "/static/media/ibendouma-logo.219b07c5ed5922cb8938.png",
+    "static/media/dofus-kamas.png": "/static/media/dofus-kamas.5d9f7fa150fd9af902ba.png",
+    "static/media/atti_bank.png": "/static/media/atti_bank.a9250ba0e03e924d2428.png",
+    "static/media/sepa.png": "/static/media/sepa.546ad11133a18e821f49.png",
+    "static/media/loader.gif": "/static/media/loader.34970db13a0575566878.gif",
+    "static/media/skrilliben.png": "/static/media/skrilliben.e4f9c6373de151c204b3.png",
+    "static/media/barid_bank.png": "/static/media/barid_bank.27f9bcf37c35558ae9fb.png",
+    "static/media/empty.webp": "/static/media/empty.a5c7b84033f220792141.webp",
+    "static/media/binance.png": "/static/media/binance.9c37891711ec698531ae.png",
+    "static/media/crypto.webp": "/static/media/crypto.5f227b72ccace59d1a06.webp",
+    "static/media/cryptoapi.webp": "/static/media/cryptoapi.2aa4f129421bfbb3da43.webp",
+    "static/media/usdt.webp": "/static/media/usdt.6be4b69273b45bd20d67.webp",
+    "index.html": "/index.html",
+    "static/media/giropay.webp": "/static/media/giropay.e7d96316f315b9858b14.webp",
+    "static/media/visa.webp": "/static/media/visa.2dee52c7fdff5684db0b.webp",
+    "static/media/paysafecard.webp": "/static/media/paysafecard.82e7a62ef49f8c7b036f.webp",
+    "static/media/skrill.webp": "/static/media/skrill.d38e8f5c564e5f1608cb.webp",
+    "static/media/neosurf.webp": "/static/media/neosurf.6e03705d06710b9433de.webp",
+    "static/media/ideal.webp": "/static/media/ideal.e770e54ec77a3b78a0e2.webp",
+    "static/media/bancontact.webp": "/static/media/bancontact.e2d7f89cf17e4d52a9cf.webp",
+    "static/media/en.webp": "/static/media/en.6c181e90aff4554a9e78.webp",
+    "static/media/mastercard.webp": "/static/media/mastercard.7c68e0d0aca00667f91a.webp",
+    "static/media/fr.webp": "/static/media/fr.fb936e59b60ba3f27091.webp",
+    "main.e2f61aba.css.map": "/static/css/main.e2f61aba.css.map",
+    "main.ba82d9c1.js.map": "/static/js/main.ba82d9c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2f61aba.css",
+    "static/js/main.ba82d9c1.js"
+  ]
+}
